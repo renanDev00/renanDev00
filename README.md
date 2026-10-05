@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou o Renan! 👋
 
-<!--
-**renanDev00/renanDev00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um **Software Builder** focado em **Fullstack JavaScript** e **Automação de Processos**.
+Atualmente, construo aplicações web com **React** e **Node.js**, transformando rotinas manuais em soluções eficientes.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Tailwind
+- **Backend:** Node.js, Express, APIs REST
+- **Ferramentas:** Git, GitHub, Vite, Postman
+- **Foco:** Automação de workflows e eficiência operacional
+
+## 📈 Projetos em Destaque
+
+- **[Dashboard de Gestão de Escala]** - Controle completo de funcionários, turnos e atividades em uma interface moderna feita com React.
+
+## 📫 Vamos Conversar?
+
+- **LinkedIn:** [linkedin.com/in/renan-araujo-venturini](www.linkedin.com/in/rerenan-araujo-venturini)
+- **Email:** renaanaraujo18@gmail.com
