@@ -16,5 +16,5 @@ Atualmente, construo aplicações web com **React** e **Node.js**, transformando
 
 ## 📫 Vamos Conversar?
 
-- **LinkedIn:** [linkedin.com/in/renan-araujo-venturini](www.linkedin.com/in/rerenan-araujo-venturini)
+- **LinkedIn:** [linkedin.com/in/renan-araujo-venturini](www.linkedin.com/in/renan-araujo-venturini)
 - **Email:** renaanaraujo18@gmail.com
